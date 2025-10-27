@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "M1gu3l", 
+    "username": "Notificação", 
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "addonteste-Fz1G.aternos.me", 
-    "port": 29399,   
+    "ip": " addonteste5697.aternos.me", 
+    "port": 46857,   
     "version": "1.18.1"   
   },
   
@@ -35,7 +35,7 @@
       "repeat-delay": 60,
 
       "messages": [
-        "Eu sou um Jogador",
+        "Seja bem-vindo ao nosso servidor",
         "Segue o Migx ae <3",
         "Eu amo jogar minecraft com vcs!"
       ]
